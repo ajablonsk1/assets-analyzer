@@ -1,0 +1,27 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# MacOS files
+.DS_Store
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+
+# Kotlin build directories
+out/
+
+# Java build directories and files
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.jar
